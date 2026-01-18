@@ -2,6 +2,7 @@
 
 A Master’s student in Computer Science applied to Aerospace  <br> 
 With interests in: Embedded Systems, Scientific Computing, Machine Learning, High-Performance Computing <br> 
+I'm I’m currently working on [MiniFlightComputer](https://github.com/esoueidan/MiniFlightComputer) <br>
 And I'm Looking for an internship in aerospace, embedded systems or data science  <br> 
 
 ## About Me : 
